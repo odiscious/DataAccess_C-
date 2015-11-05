@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDemo", "DataReaderDemo\DataDemo.csproj", "{D635E692-E199-4DA8-B984-9120ADFABD68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLib", "DataAccessLib\DataAccessLib.csproj", "{0D231F07-F34F-4250-BAC7-DECBD79C09C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D635E692-E199-4DA8-B984-9120ADFABD68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D635E692-E199-4DA8-B984-9120ADFABD68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D635E692-E199-4DA8-B984-9120ADFABD68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D635E692-E199-4DA8-B984-9120ADFABD68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D231F07-F34F-4250-BAC7-DECBD79C09C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D231F07-F34F-4250-BAC7-DECBD79C09C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D231F07-F34F-4250-BAC7-DECBD79C09C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D231F07-F34F-4250-BAC7-DECBD79C09C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

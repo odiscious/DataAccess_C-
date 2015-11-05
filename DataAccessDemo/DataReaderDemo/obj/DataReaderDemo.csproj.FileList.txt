@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DataReaderDemo.DemoForm.resources
+obj\Debug\DataReaderDemo.Properties.Resources.resources
+obj\Debug\DataReaderDemo.csproj.GenerateResource.Cache
+bin\Debug\DataReaderDemo.exe
+bin\Debug\DataReaderDemo.pdb
+obj\Debug\DataReaderDemo.exe
+obj\Debug\DataReaderDemo.pdb
+bin\Debug\DataAccessLib.dll
+bin\Debug\DataAccessLib.pdb
+obj\Debug\DataReaderDemo.DataChangeDemoForm.resources
+obj\Debug\DataReaderDemo.MainForm.resources

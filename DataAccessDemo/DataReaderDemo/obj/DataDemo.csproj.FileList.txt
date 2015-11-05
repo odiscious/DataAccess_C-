@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DataDemo.DataChangeDemoForm.resources
+obj\Debug\DataDemo.DemoForm.resources
+obj\Debug\DataDemo.MainForm.resources
+obj\Debug\DataReaderDemo.Properties.Resources.resources
+obj\Debug\DataDemo.csproj.GenerateResource.Cache
+bin\Debug\DataDemo.exe
+bin\Debug\DataDemo.pdb
+bin\Debug\DataAccessLib.dll
+bin\Debug\DataAccessLib.pdb
+obj\Debug\DataDemo.exe
+obj\Debug\DataDemo.pdb
+bin\Debug\CustomerLib.dll
+bin\Debug\CustomerLib.pdb
